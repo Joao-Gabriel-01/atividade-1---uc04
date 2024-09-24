@@ -34,3 +34,6 @@ git tag // usado para cria uma tag
 git tag -a 1.0 -m "mensagem"
 
 git push origin --tags // para subir as tags no remote
+
+João Gabriel da Silva
+Júlio César
